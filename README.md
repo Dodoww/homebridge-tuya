@@ -95,3 +95,5 @@ Dimmer device example:
   }
 ]
 ```
+
+This method work with Horsky Outlets
